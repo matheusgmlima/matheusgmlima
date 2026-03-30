@@ -62,10 +62,9 @@ Bot no Telegram para coleta e organização automatizada de dados de um time de 
 
 
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusgmlima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+Python;CS+%40+UFRPE+%7C+Recife%2C+PE)](https://git.io/typing-svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgmlima&layout=compact&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=matheusgmlima&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
