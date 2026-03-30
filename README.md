@@ -44,17 +44,13 @@ Estagiário em robótica na **Prefeitura do Recife**, onde programo microcontrol
 ### 🏆 FutData — Hackathon EDScript · Esportes da Sorte
 Plataforma de análise esportiva com machine learning e IA para insights em tempo real sobre partidas ao vivo.  
 `Python` `React` `Node.js` `SQL` `Machine Learning`  
-→ [Ver repositório](#)
+→ [Ver repositório](https://github.com/orgs/UFRPE404/repositories)
 
 ### 🌱 Projeto Sentinela — Edital Cientista Arretado · Gov. PE
 Software para centralização de dados sobre conflitos agrários, com foco em acessibilidade. Semifinalista em edital estadual de inovação.  
 `Java` `SQL` `MongoDB`  
-→ [Ver repositório](#)
+→ [Ver repositório](https://github.com/TimeB-EngSoft/projeto-sentinela-backend)
 
-### 🤖 Telegram Chatbot — Dados de E-sports
-Bot no Telegram para coleta e organização automatizada de dados de um time de e-sports.  
-`Java` `Telegram API`  
-→ [Ver repositório](https://github.com/matheusgmlima/Telegram-Chatbot)
 
 ---
 
@@ -71,5 +67,5 @@ Bot no Telegram para coleta e organização automatizada de dados de um time de 
 
 ## 📬 Vamos conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-lima-4a8854305)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusgmlimadev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgmlima28@gmail.com)
