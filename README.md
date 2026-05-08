@@ -4,7 +4,7 @@
 
 Apaixonado por tecnologia desde cedo, movido pela curiosidade de entender como as coisas funcionam por trás. Hoje transformo essa curiosidade em código.
 
-Estagiário em robótica na **Prefeitura do Recife**, onde programo microcontroladores e ensino robótica para crianças de escolas públicas. Fora do estágio, construo projetos que misturam web, dados e IA.
+Estagiário de desenvolvimento no **TJPE/BID** onde trabalho encontrando, estudando e solucionando problemas dos sistemas de uso geral do TJPE. Atualmente estou trabalhando principalmente com desenvolvimento WEB e banco de dados.
 
 🏆 Prêmio 2° Melhor Líder de Equipe — Hackathon EDScript · Esportes da Sorte  
 🌱 Semifinalista — Edital Cientista Arretado · Governo de Pernambuco
