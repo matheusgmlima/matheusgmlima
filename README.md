@@ -60,9 +60,6 @@ Software para centralização de dados sobre conflitos agrários, com foco em ac
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+Python;CS+%40+UFRPE+%7C+Recife%2C+PE)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=matheusgmlima&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
 ---
 
 ## 📬 Vamos conversar?
